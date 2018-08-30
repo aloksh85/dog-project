@@ -4,6 +4,9 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Project Submission
+
+This is my solution for Project 2 - Dog breed classification. The implementation is in jupyter notebook -"dog_app.ipynb" and test images are available in the directory "test_images"
 
 ## Project Overview
 
